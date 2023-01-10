@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAdminPanel", "MysqlConnection\BasicAdminPanel.csproj", "{648B5D5C-F5DC-428E-955A-C6CBAA903695}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CA196C3-A664-4FB3-89ED-6797E1F9F8E4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Admin Paneli", "Admin Paneli\Admin Paneli.vdproj", "{AE5A9F1A-563C-4F0A-87EC-48114D03A552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648B5D5C-F5DC-428E-955A-C6CBAA903695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648B5D5C-F5DC-428E-955A-C6CBAA903695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648B5D5C-F5DC-428E-955A-C6CBAA903695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648B5D5C-F5DC-428E-955A-C6CBAA903695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5A9F1A-563C-4F0A-87EC-48114D03A552}.Debug|Any CPU.ActiveCfg = Debug
+		{AE5A9F1A-563C-4F0A-87EC-48114D03A552}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD3CE2A-9AA5-47C5-B894-99E498CCEAB2}
+	EndGlobalSection
+EndGlobal
